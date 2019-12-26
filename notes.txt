@@ -1,0 +1,18 @@
+# TensorFlow Artificial Neural Network - TFANN
+https://towardsdatascience.com/simple-stock-price-prediction-with-ml-in-python-learners-guide-to-ml-76896910e2ba
+# Difference of changes (1st derivatives)
+https://towardsdatascience.com/how-not-to-use-machine-learning-for-time-series-forecasting-avoiding-the-pitfalls-19f9d7adf424
+# Stocker: A Stock Analysis and Prediction Toolkit using Additive Models
+https://github.com/WillKoehrsen/Data-Analysis/tree/master/stocker
+# Prediction using LR and SVM
+https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a
+
+#
+https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/
+# 
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+# 
+https://towardsdatascience.com/stock-prediction-in-python-b66555171a2
+# 
+https://aws.amazon.com/forecast/
+https://www.youtube.com/watch?v=LHYUJ9CreN0
